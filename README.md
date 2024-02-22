@@ -1,2 +1,2 @@
 # numberplate-detection-ANPR-
-real time numberplate detection using OpenCV
+This is real time numberplate detection application using OpenCV, it uses a pretrained harcascade model (train your own model for relevant results).
